@@ -1,2 +1,2 @@
 # FlappyMonke
-No, go back I want to be monke bird.
+FlappyMonke lets you flap around like the monke bird you've always wanted to be.
